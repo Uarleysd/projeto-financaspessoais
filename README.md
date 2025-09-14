@@ -2,8 +2,8 @@
 Projeto para controle pessoal de finanças englobando renda fixa e variável
 
 Tecnologias:
--[] HTML5
--[] CSS
+- HTML5
+- CSS
 
 O que aprendi:
 - Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
